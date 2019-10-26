@@ -8,7 +8,11 @@ The first movement to take action against pollution is a good knowledge of the p
 
 But in the cities, where the concentration of population is higher, pollutant emissions become also higher and more complex. In many cases local stations are not enough to get an idea about air quality in our houses, so we need to measure directly there where we live.
 
+
 Here we are adding a third source of data: the ANEMOI Cube, an open source IoT device based on Arduino capable of measuring air quality at home and sharing it to a global map. This allows creating a more detailed map of air quality in the cities.
+
+
+![IMAGE ALT TEXT HERE](https://github.com/anemoi-spaceapps/anemoi-spaceapps.github.io/blob/master/cube.png)
 
 
 ### What can ANEMOI do for us?
