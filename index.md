@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## What is ANEMOI?
 
-You can use the [editor on GitHub](https://github.com/anemoi-spaceapps/anemoi-spaceapps.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Air pollution is nowadays a big concern. It affects directly to climate change and health of living beings. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<iframe width="560" height="315" src="https://youtu.be/ZGNV0rbY7mY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### Markdown
+The first movement to take action against pollution is a good knowledge of the problem, and that implies collecting data. For that reason, ANEMOI retrieves air quality data from NASA satellites, as well as local stations.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+But in the cities, where the concentration of population is higher, pollutant emissions become also higher and more complex. In many cases local stations are not enough to get an idea about air quality in our houses, so we need to measure directly there where we live.
 
-```markdown
-Syntax highlighted code block
+Here we are adding a third source of data: the ANEMOI Cube, an open source IoT device based on Arduino capable of measuring air quality at home and sharing it to a global map. This allows creating a more detailed map of air quality in the cities.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### What can ANEMOI do for us?
 
-1. Numbered
-2. List
+Firstly, ANEMOI collects data from all this three sources to generate a detailed map in real time of air quality. The historical data allows to create models and predictions of air pollutants in air based on observations.
 
-**Bold** and _Italic_ and `Code` text
+In short term, ANEMOI can warn you on your smartphone in real time, when air pollutant levels near you are too high. In longer terms, ANEMOI maps can help local administrations to detect the most affected areas within a city so they have a better tool to decide what actions to take. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### About this project
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anemoi-spaceapps/anemoi-spaceapps.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ANEMOI was developed in 48 hours during the NASA SpaceApps hackathon in Valencia, Spain in October 2019.
