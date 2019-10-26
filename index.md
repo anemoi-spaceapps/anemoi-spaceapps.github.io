@@ -2,7 +2,7 @@
 
 Air pollution is nowadays a big concern. It affects directly to climate change and health of living beings. 
 
-<iframe width="560" height="315" src="https://youtu.be/ZGNV0rbY7mY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZGNV0rbY7mY/0.jpg)](https://youtu.be/ZGNV0rbY7mY)
 
 The first movement to take action against pollution is a good knowledge of the problem, and that implies collecting data. For that reason, ANEMOI retrieves air quality data from NASA satellites, as well as local stations.
 
